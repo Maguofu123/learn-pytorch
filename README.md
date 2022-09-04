@@ -1,5 +1,9 @@
 # learn-pytorch
-## 反向传播
+## day1
+反向传播
 .backward()
 
 .grad
+
+## day2
+矩阵与向量计算
