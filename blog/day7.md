@@ -26,3 +26,7 @@ nn.init.xavier_uniform_()`
 **参数绑定**
 通过初始化一个层实例
 例如`shared = nn.Linear(2, 3)`
+
+**读写保存**
+`torch.load`
+ torch.save`
