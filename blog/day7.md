@@ -22,3 +22,7 @@ nn.init.constant_()
 nn.init.xavier_uniform_()`
 
 `net.apply()`
+
+**参数绑定**
+通过初始化一个层实例
+例如`shared = nn.Linear(2, 3)`
