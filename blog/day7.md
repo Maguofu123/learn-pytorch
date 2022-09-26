@@ -29,4 +29,4 @@ nn.init.xavier_uniform_()`
 
 **读写保存**
 `torch.load`
- torch.save`
+`torch.save`
